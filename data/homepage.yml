@@ -1,7 +1,7 @@
 # banner
 banner:
-  title : "Provenance EMU"
-  description : "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems."
+  title : "SideStore"
+  description : " Sideloading apps that push the boundaries of iOS."
   bgImage : "images/home-banner.webp"
   bgImageAlt : "images/home-banner.jpg"
   image : "images/mobile.webp"
