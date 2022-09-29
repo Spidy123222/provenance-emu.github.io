@@ -1,5 +1,5 @@
-baseurl = "https://provenance-emu.com"
-title = "Provenance Emu"
+baseurl = "https://sidestore.io/"
+title = "SideStore"
 theme = ["hugo-social-metadata", "hugo-redirect", "hugo-cloak-email", "small-apps-prov"]
 themesDir = "themes"
 languageCode = "en-us"
@@ -7,7 +7,7 @@ summaryLength = "10"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "provenance-emu"
+disqusShortname = "SideStore"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-128934358-3"
 
@@ -37,7 +37,7 @@ pygmentsStyle = "solarized-dark"
     [[menu.main]]
         identifier = "source"
         name = "Source"
-        url = "https://github.com/Provenance-Emu/Provenance"
+        url = "https://github.com/SideStore/SideStore"
         pre = "<i class='fab fa-2x fa-github'></i>"
         target = "_blank"
         hrefTargetBlank = true
@@ -46,19 +46,19 @@ pygmentsStyle = "solarized-dark"
     [[menu.main]]
         identifier = "docs"
         name = "Docs"
-        url  = "https://wiki.provenance-emu.com/"
+        url  = "https://wiki.sidestore.io/"
         weight = 4
 
     [[menu.main]]
         identifier = "faq"
         name = "FAQ"
-        url  = "https://wiki.provenance-emu.com/faqs"
+        url  = "https://wiki.sidestore.io/faqs"
         weight = 5
 
     [[menu.main]]
         identifier = "patreon"
         name = "Patreon"
-        url  = "https://www.patreon.com/provenance"
+        url  = "https://www.sidestore.io/SideStore"
         weight = 6
 
     [[menu.main]]
@@ -78,7 +78,7 @@ pygmentsStyle = "solarized-dark"
     [[menu.topbar]]
         weight = 1
         name = "GitHub"
-        url = "https://github.com/Provenance-Emu/Provenance"
+        url = "https://github.com/SideStore/SideStore"
         pre = "<i class='fab fa-2x fa-github'></i>"
 
     [[menu.topbar]]
@@ -167,29 +167,18 @@ pygmentsStyle = "solarized-dark"
     [params.footer]
 
         # social icon
-        [[params.footer.socialIcon]]
-            icon = "tf-ion-social-facebook"
-            URL = "https://facebook.com/provenance.emu/"
 
         [[params.footer.socialIcon]]
             icon = "tf-ion-social-twitter"
-            URL = "https://twitter.com/provenanceapp"
+            URL = "https://twitter.com/sidestore_io"
 
         [[params.footer.socialIcon]]
             icon = "tf-ion-social-github"
-            URL = "https://github.com/Provenance-Emu/Provenance"
+            URL = "https://github.com/SideStore/SideStore"
 
         [[params.footer.socialIcon]]
             icon = "tf-ion-social-whatsapp"
-            URL = "https://discord.gg/4TK7PU5"
-
-        [[params.footer.socialIcon]]
-            icon = "tf-ion-social-twitch"
-            URL = "https://twitch.tv/joemattiello/"
-
-        [[params.footer.socialIcon]]
-            icon = "tf-ion-social-youtube"
-            URL = "https://www.youtube.com/channel/UCKeN6unYKdayfgLWulXgB1w"
+            URL = "https://discord.gg/WsT2hcwRVy"
 
     # call to action
     [params.cta]
@@ -197,7 +186,7 @@ pygmentsStyle = "solarized-dark"
         title = "We are hunting Genius Developers"
         content = ""
         btnText = "Join the team"
-        URL = "https://github.com/Provenance-Emu/Provenance/issues"
+        URL = "https://github.com/SideStore/SideStore/issues"
 
     [permalinks]
         blog = "/blog/:year/:month/:day/:filename/"
