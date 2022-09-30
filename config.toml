@@ -150,7 +150,7 @@ pygmentsStyle = "solarized-dark"
     address = ""
     home = "Home"
     # Meta data
-    description = "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems."
+    description = "SideStore is an iOS application that allows you to sideload other apps (.ipa files) onto your iOS device using a on-device vpn. The SideStore app target contains the vast majority of AltStore's functionality, including all the logic for downloading and updating apps through SideStore."
     # google map
     #gmapAPI = "https://maps.googleapis.com/maps/api/js?key=KEY&libraries=places"
     #mapLatitude = "51.5223477"
