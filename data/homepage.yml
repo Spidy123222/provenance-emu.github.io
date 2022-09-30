@@ -32,7 +32,7 @@ featureOne:
   enable : true
   imageAlt : "images/feature/feature-rom-metadata.webp"
   image : "images/feature/feature-rom-metadata.png"
-  title : "Convinent and Easy Sideloading"
+  title : "Convenient and Easy Sideloading"
   content : "No longer is the yesterday of Sideloading with a computer (After inital install). Can go anywhere and use your apps anywhere with the convinence of On-Device Sideloading and JIT Support!"
   comment : ""
 
