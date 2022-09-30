@@ -1,4 +1,4 @@
-baseurl = "https://sidestore.io/"
+baseurl = "https://spidy123222.github.io/"
 title = "SideStore"
 theme = ["hugo-social-metadata", "hugo-redirect", "hugo-cloak-email", "small-apps-prov"]
 themesDir = "themes"
