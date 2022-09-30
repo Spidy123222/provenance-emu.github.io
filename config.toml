@@ -46,7 +46,7 @@ pygmentsStyle = "solarized-dark"
     [[menu.main]]
         identifier = "docs"
         name = "Docs"
-        url  = "https://wiki.sidestore.io/"
+        url  = "https://wiki.sidestore.io"
         weight = 4
 
     [[menu.main]]
