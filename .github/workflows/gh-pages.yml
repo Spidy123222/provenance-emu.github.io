@@ -31,5 +31,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # publish_dir: ./docs
           publish_branch: gh-pages
-          cname: provenance-emu.com  # default: gh-pages
+          cname: spidy123222.github.io  # default: gh-pages
 
