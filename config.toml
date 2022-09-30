@@ -1,4 +1,4 @@
-baseurl = "https://spidy123222.github.io/"
+baseurl = "https://spidy123222.github.io/provenance-emu.github.io"
 title = "SideStore"
 theme = ["hugo-social-metadata", "hugo-redirect", "hugo-cloak-email", "small-apps-prov"]
 themesDir = "themes"
