@@ -1,7 +1,7 @@
 faq:
   - title : "Getting Started"
     faqList :
-      - question : "What should I do if I want to see how a prototype created with ProtoPie runs on a mobile device?"
+      - question : "What should I do if I want to see how a prototype created with ProtoPie runs on a mobile device??"
         answer : "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a."
         
       - question : "What devices are supported for Android Instant Apps?"
