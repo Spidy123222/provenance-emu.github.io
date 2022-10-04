@@ -10,9 +10,9 @@ banner:
     btnText : "Download IPA"
     URL : "https://github.com/Provenance-Emu/Provenance/releases"
     btnText3: 'Patreon'
-    URL3: 'patreon'
-    btnText4: 'OTA'
-    URL4: 'ota'
+    URL2: 'patreon'
+    btnText4: "Download SideServer"
+    URL3: "https://github.com/SideStore/SideServer"
 
 
 # banner-feature
