@@ -9,9 +9,9 @@ banner:
   button:
     btnText : "Download IPA"
     URL : "https://github.com/Provenance-Emu/Provenance/releases"
-    btnText3: 'Patreon'
+    btnText2: 'Patreon'
     URL2: 'patreon'
-    btnText4: "Download SideServer"
+    btnText3: "Download SideServer"
     URL3: "https://github.com/SideStore/SideServer"
 
 
