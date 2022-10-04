@@ -7,7 +7,7 @@ summaryLength = "10"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "provenance-emu"
+disqusShortname = "sidestore"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-128934358-3"
 
@@ -82,15 +82,9 @@ pygmentsStyle = "solarized-dark"
         pre = "<i class='fab fa-2x fa-github'></i>"
 
     [[menu.topbar]]
-        weight = 2
-        name = "Facebook"
-        url = "https://facebook.com/provenance.emu/"
-        pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-    [[menu.topbar]]
         weight = 3
         name = "Twitter"
-        url = "https://twitter.com/provenanceapp"
+        url = "https://twitter.com/sidestore_io"
         pre = "<i class='fab fa-2x fa-twitter'></i>"
 
     [[menu.topbar]]
@@ -101,13 +95,13 @@ pygmentsStyle = "solarized-dark"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "Provenance Team"
+    author = "Side Team"
     defaultKeywords = []
     mainSections = ["blog"]
     defaultDescription = ""
 
     # Social media
-    facebook_site = "provenance.emu" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "provenanceapp" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
