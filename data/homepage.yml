@@ -8,7 +8,7 @@ banner:
   imageAlt : "images/mobile.png"
   button:
     btnText : "Download IPA"
-    URL : "https://github.com/Provenance-Emu/Provenance/releases"
+    URL : "https://github.com/SideStore/SideStore/releases"
     btnText2: 'Patreon'
     URL2: 'patreon'
     btnText3: "Download SideServer"
@@ -109,7 +109,7 @@ download:
   downloadButton :
     - btnText : "IPA"
       icon : "tf-ion-social-apple"
-      URL : "https://github.com/Provenance-Emu/Provenance/releases"
+      URL : "https://github.com/SideStore/SideStore/releases"
     - btnText: "Support on Patreon"
       icon: "tf-ion-ios-body"
       URL: "patreon"
